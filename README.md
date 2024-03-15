@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="200" src="./banner-cropped.png"  />
+  <img width="100%" height="200" src="./Kyle aguas.png"  />
 </div>
 
 ###
