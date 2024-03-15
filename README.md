@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="left">HI IM A PROGRAMMER</h1>
+<h1 align="left">What is up?R</h1>
 
 ###
 
-<p align="left">My name is Henzel Marc and I've been learning software development just recently.</p>
+<p align="left">My name is Kyle Aguas and I've been learning software development just recently.</p>
 
 ###
 
